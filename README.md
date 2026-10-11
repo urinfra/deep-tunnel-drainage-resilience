@@ -13,7 +13,7 @@ Python code for the manuscript **"Deep tunnel drainage systems redistribute urba
 
 ## Data
 
-The source data and numerical results underlying the figures are deposited in Zenodo (record link to be inserted; see the Data Availability statement of the manuscript). Download the data files from the Zenodo record into this repository before running the figure scripts (the scripts expect the xlsx/csv files in the same directory as the script or in a `data/` subdirectory).
+The source data and numerical results underlying the figures are deposited in Zenodo: [https://doi.org/10.5281/zenodo.23299956](https://doi.org/10.5281/zenodo.23299956). Download the data files from the Zenodo record into this repository before running the figure scripts (the scripts expect the xlsx/csv files in the same directory as the script or in a `data/` subdirectory).
 
 **Guangzhou operational monitoring data**: event-level monitoring data for the Guangzhou Donghaochong deep tunnel (2022-2025) are confidential (Guangzhou Water Affairs Bureau data-sharing agreement) and are **not** included. Aggregate statistics (n = 579 events, P50/P95/P99 and maximum peak storage) are provided in the Zenodo deposit (`Fig1_RFC_Curves.xlsx`, sheet `Guangzhou_Observed_Summary`).
 
